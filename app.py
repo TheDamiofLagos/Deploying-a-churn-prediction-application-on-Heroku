@@ -80,6 +80,7 @@ internet_service = internet_service_mapping[internet_service_label]
 contract = contract_mapping[contract_label]
 payment_method = payment_method_mapping[payment_method_label]
 
+# here 
 # Make a prediction
 features = {
     'gender': gender,
